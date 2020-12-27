@@ -15,7 +15,7 @@ This repo will collect the assignments of the course.
 - [HW9: Sampling and estimation](https://github.com/Aman-4-Real/Math_Foundation_of_AI-RUCourse/tree/main/HW9)
 - [HW10: Streaming algorithm](https://github.com/Aman-4-Real/Math_Foundation_of_AI-RUCourse/tree/main/HW10)
 <br>
-Some questions are from the book *Machine Learning A Probabilistic Perspective by Kevin P. Murphy* where you can find it via the Internet.
+Some questions are from the book _Machine Learning A Probabilistic Perspective by Kevin P. Murphy_ where you can find it via the Internet.
 
 <br><br>
 **HOWEVER**<br>
